@@ -28,6 +28,6 @@ function gameStart() {
     player = new Player()
     board = new Board();
     board.addCards(emotions);
-    // board.shuffleCards(); ADD THIS BACK BEFORE PRODUCTION
+    board.shuffleCards();
     board.drawBoard();
 }
