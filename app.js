@@ -16,7 +16,7 @@ const affirmations = [
     '✿ Don\'t ever let anyone disturb your peace ✿',
     '✿ Your story of resilience will stir up resilience in others ✿',
     '✿ You are MAGIC ✿',
-    '✿ Do it all with passion or not at all ✿',
+    '✿ Do it all with passion or not at all. ✿',
 ];
 
 window.addEventListener('load', () => {
