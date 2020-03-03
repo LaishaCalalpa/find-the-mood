@@ -15,6 +15,8 @@ const affirmations = [
     '✿ You are worthy of the process it takes to grow in healing ways ✿',
     '✿ Don\'t ever let anyone disturb your peace ✿',
     '✿ Your story of resilience will stir up resilience in others ✿',
+    '✿ You are MAGIC ✿',
+    '✿ Do it all with passion or not at all ✿',
 ];
 
 window.addEventListener('load', () => {
